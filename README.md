@@ -1,5 +1,3 @@
-## My Journey from Social Worker to Analyst
-
 ### About Me
 I am a social worker by training. I enjoy thinking analytically, I love learning new things, and my goal is to one day be able to call myself a "data analyst".
 
